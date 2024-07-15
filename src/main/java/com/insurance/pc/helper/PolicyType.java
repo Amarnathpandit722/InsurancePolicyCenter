@@ -1,0 +1,14 @@
+package com.insurance.pc.helper;
+
+public enum PolicyType {
+
+	HEALTHCARE_INSURANCE,
+	PERSONAL_AUTO, 
+	PROPERTY_INSURANCE,
+	GENRAL_INSURANCE,
+	WORKER_INSURANCE,
+	INLAND_MARINE
+	
+	
+	
+}
